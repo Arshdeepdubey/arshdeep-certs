@@ -1,2 +1,1 @@
-*** Certificates ***
-*** Here are few accomplishments achieved by account owner!! ***
+Here are few accomplishments achieved by account owner!
