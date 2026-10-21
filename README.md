@@ -1,223 +1,104 @@
-# 🎓 Professional Certifications & Achievements
+# Certifications and Learning Achievements
 
-Welcome! This repository showcases a comprehensive collection of professional certifications, course completions, and skill validations across cloud platforms, DevOps, infrastructure, and competitive programming.
+This repository is a personal archive of certificates, course-completion records, training badges, and learning achievements. Items are grouped by issuing platform; links open the corresponding file in this repository.
 
----
+## Collection overview
 
-## 📊 Overview
+| Platform | Files | Contents |
+|---|---:|---|
+| AWS | 9 | Seven course PDFs and two Cloud Quest training badges |
+| Claude | 1 | Certificate PDF |
+| Google / Coursera | 4 | Coursera certificate PDFs |
+| HackerRank | 7 | Programming and problem-solving certificate PDFs |
+| HashiCorp | 3 | Two Terraform Associate PDFs and one badge image |
+| KodeKloud | 8 | AWS Basics and seven Level 1 course PDFs |
+| LeetCode | 3 | Coding-practice achievement images |
+| LinkedIn | 2 | GitHub Actions course PDF and skills snapshot |
+| Linux Foundation | 8 | Three course PDFs and five course badge images |
+| **Total** | **45** | **33 PDFs and 12 image files** |
 
-**Total Certifications & Courses:** 31+  
-**Cloud Platforms:** AWS, Google Cloud  
-**Infrastructure & DevOps:** Terraform, Kubernetes, GitOps, Jenkins  
-**Programming Platforms:** HackerRank, LeetCode, Coursera  
-**Specializations:** Cloud Architecture, IaC, CI/CD, Security, AI/ML
+## AWS
 
----
+Course completion PDFs:
 
-## 📁 Repository Structure
+- [AWS Cloud Practitioner Essentials](AWS/aws_cloud_practioner_essentials.pdf)
+- [AWS Foundations](AWS/aws_foundations.pdf)
+- [Introduction to AWS Identity and Access Management (IAM)](AWS/aws_iam.pdf)
+- [AWS Job Roles](AWS/aws_job_roles.pdf)
+- [AWS Organizations](AWS/aws_organizations.pdf)
+- [AWS Prompt Engineering](AWS/aws_prompt_engineering.pdf)
+- [Amazon S3 Performance Optimization](AWS/aws_s3.pdf)
 
-This repository is organized by platform and provider for easy navigation:
+Cloud Quest training badges:
 
-```
-arshdeep-certs/
-├── AWS/                    # Amazon Web Services certifications & courses
-├── Claude/                 # Claude AI certifications
-├── Google/                 # Google Cloud & Coursera certifications
-├── HashiCorp/             # Terraform Associate certifications
-├── HackerRank/            # HackerRank skill certifications
-├── KodeKloud/             # KodeKloud course certificates
-├── LeetCode/              # LeetCode achievements
-├── LinkedIn/              # LinkedIn Learning courses
-└── Linux/                 # Linux Foundation certifications
-```
+- [Cloud Practitioner Trained](AWS/aws-cloud-quest-cloud-practitioner-training-badge.png)
+- [Generative AI Practitioner Trained](AWS/aws-cloud-quest-generative-ai-practitioner-training.png)
 
----
+## Claude
 
-## 🏆 Certifications by Category
+- [Claude certificate](Claude/certificate-claude.pdf)
 
-### ☁️ **AWS (10 Certifications & Courses)**
-- **AWS Cloud Practitioner Essentials** - Foundational cloud concepts
-- **AWS Foundations** - Core AWS services and architecture
-- **AWS S3 Certification** - Simple Storage Service mastery
-- **AWS IAM Management** - Identity and Access Management
-- **AWS Organizations** - Multi-account management strategies
-- **AWS Job Roles in Cloud** - Cloud career pathways
-- **AWS Cost Optimization** - Cost management and optimization
-- **AWS Prompt Engineering** - AI/ML integration with AWS
-- *Plus 2 additional AWS specialized certifications*
+## Google and Coursera
 
-**Skills Gained:** EC2, S3, RDS, Lambda, IAM, VPC, CloudFormation, Cost optimization, Prompt engineering
+- [Coursera certificate 0DQB2633EOJ9](<Google/Coursera 0DQB2633EOJ9.pdf>)
+- [Coursera certificate CE0QPB1ZQ7LR](<Google/Coursera CE0QPB1ZQ7LR.pdf>)
+- [Coursera certificate Q6DTJWRYNRXP](<Google/Coursera Q6DTJWRYNRXP.pdf>)
+- [Coursera certificate YOI5QFSM13LE](<Google/Coursera YOI5QFSM13LE.pdf>)
 
-### 🤖 **Claude AI (1 Certification)**
-- **Claude Certification** - AI assistant specialization
+## HackerRank
 
-**Skills Gained:** Prompt engineering, AI model interaction, LLM applications
+- [Java Basic](HackerRank/java_basic.pdf)
+- [Problem Solving Basic](HackerRank/problemsolving_basic.pdf)
+- [Problem Solving Intermediate](HackerRank/problemsolving_intermediate.pdf)
+- [Python Basic](HackerRank/python_basic.pdf)
+- [REST API Intermediate](HackerRank/rest_api_intermediate.pdf)
+- [SQL Basic](HackerRank/sql_basic.pdf)
+- [SQL Intermediate](HackerRank/sql_intermediate.pdf)
 
-### 🌐 **Google Cloud & AI (5 Certifications)**
-- **Google AI Professional Certificate** - AI and machine learning specialization
-- **Coursera Certifications (4 courses)** - Advanced cloud and AI topics
-  - Professional Cloud certification
-  - Cloud solutions specialization
-  - Data and AI engineering tracks
-  - Additional advanced topics
+## HashiCorp
 
-**Skills Gained:** BigQuery, Dataflow, Vertex AI, Machine Learning, Data Analytics, Cloud Architecture
+- [Terraform Associate (004) certificate](<HashiCorp/HashiCorp Certified_ Terraform Associate (004).pdf>)
+- [Terraform Associate (004) certificate](HashiCorp/TerraformAssociate00420260727-20-sjpez7.pdf)
+- [Terraform Associate (004) badge](HashiCorp/hashicorp-certified-terraform-associate-004.png)
 
-### 🏗️ **HashiCorp Terraform (3 Certifications)**
-- **HashiCorp Certified: Terraform Associate (004)** - Latest certification version
-- **Terraform Associate Certifications (2 versions)** - Infrastructure as Code mastery
+## KodeKloud
 
-**Skills Gained:** Terraform CLI, HCL, State management, Modules, Provisioners, Cloud provisioning, IaC best practices
+- [AWS Basics](KodeKloud/AWS_Basics.pdf)
+- [Ansible Level 1](KodeKloud/KodeKloud_Ansible_L1.pdf)
+- [Docker Level 1](KodeKloud/KodeKloud_Docker_L1.pdf)
+- [Git Level 1](KodeKloud/KodeKloud_Git_L1.pdf)
+- [Jenkins Level 1](KodeKloud/KodeKloud_Jenkins_L1.pdf)
+- [Kubernetes Level 1](KodeKloud/KodeKloud_Kubernetes_L1.pdf)
+- [Linux Level 1](KodeKloud/KodeKloud_Linux_L1.pdf)
+- [Terraform Level 1](KodeKloud/KodeKloud_Terraform_L1.pdf)
 
-### 💻 **HackerRank (2 Certifications)**
-- **Java Basic Certificate** - Core Java programming
-- **Problem Solving Basic Certificate** - Algorithmic problem-solving
+## LeetCode
 
-**Skills Gained:** Java fundamentals, Data structures, Algorithms, Problem-solving
+- [50-day achievement](LeetCode/50.gif)
+- [100-day achievement](LeetCode/100.png)
+- [Daily Coding Challenge — September 2026](LeetCode/Sept-2026.png)
 
-### 📚 **KodeKloud (4 Certifications)**
-- **KodeKloud Course Completion Certificates (2)** - DevOps and Kubernetes courses
-- **AWS Basics on KodeKloud** - AWS fundamentals
-- **Hands-on Practice Certificates** - Practical skill validation
+## LinkedIn Learning
 
-**Skills Gained:** Kubernetes, Docker, DevOps practices, Infrastructure automation, Linux systems
+- [Practical GitHub Actions](LinkedIn/Practical_GitHub_Actions.pdf)
+- [Skills snapshot: cybersecurity awareness and critical thinking](LinkedIn/linkedin_skills.png)
 
-### 🎯 **LeetCode (1 Achievement)**
-- **LeetCode Badge/Achievement** - Coding practice milestone
+## Linux Foundation
 
-**Skills Gained:** Data structures, Algorithm optimization, Coding patterns
+Course PDFs:
 
-### 💼 **LinkedIn Learning (1 Certification)**
-- **Practical GitHub Actions** - CI/CD automation and workflow orchestration
+- [Automating Supply Chain Security](Linux/Automating_Supply_Chain_Security.pdf)
+- [Introduction to GitOps](Linux/Introduction_To_GitOps.pdf)
+- [Introduction to Kubernetes](Linux/Introduction_To_Kubernetes.pdf)
 
-**Skills Gained:** GitHub Actions, CI/CD pipelines, Workflow automation, DevOps integration
+Course badges:
 
-### 🐧 **Linux Foundation (6 Certifications)**
-- **Introduction to Kubernetes (LFS158)** - Container orchestration fundamentals
-- **Introduction to GitOps (LFS169)** - GitOps principles and practices
-- **Introduction to Jenkins** - CI/CD pipeline automation
-- **Automating Supply Chain Security** - DevSecOps and security automation
-- *Plus 2 additional Linux Foundation courses*
-
-**Skills Gained:** Kubernetes, Docker, Container security, GitOps workflows, Jenkins, CI/CD, Supply chain security, Linux systems
+- [Introduction to Open Source License Compliance Management (LFC193)](Linux/lfc193-introduction-to-open-source-licensing-compliance-management.png)
+- [A Beginner's Guide to Linux Kernel Development (LFD103)](Linux/lfd103-a-beginner-s-guide-to-linux-kernel-development.png)
+- [Open Source Contribution in Finance (LFD137)](Linux/lfd137-open-source-contribution-in-finance.png)
+- [Introduction to Serverless on Kubernetes (LFS157)](Linux/lfs157-introduction-to-serverless-on-kubernetes.png)
+- [Introduction to Jenkins (LFS167)](Linux/lfs167-introduction-to-jenkins.png)
 
 ---
 
-## 🎯 Core Competencies
-
-Based on certifications achieved:
-
-| Domain | Proficiency | Certifications |
-|--------|-------------|-----------------|
-| **Cloud Platforms** | Expert | AWS (10), Google Cloud (5) |
-| **Infrastructure as Code** | Advanced | Terraform (3), KodeKloud (4) |
-| **Container & Orchestration** | Advanced | Kubernetes (2), Linux Foundation (6) |
-| **CI/CD & DevOps** | Advanced | Jenkins, GitHub Actions, GitOps |
-| **Programming** | Intermediate | Java, Problem Solving |
-| **AI/ML** | Intermediate | Google AI, Claude, AWS ML |
-| **Security** | Intermediate | Supply Chain Security, IAM |
-
----
-
-## 🚀 Key Highlights
-
-✅ **Multi-Cloud Expert** - Certified across AWS and Google Cloud  
-✅ **Infrastructure Specialist** - Advanced Terraform and container skills  
-✅ **DevOps Practitioner** - CI/CD, Kubernetes, and automation expertise  
-✅ **Full-Stack Learning** - From foundational to advanced specializations  
-✅ **Continuous Growth** - Regular certifications and skill validations  
-✅ **Hands-On Experience** - Practical certifications from KodeKloud  
-
----
-
-## 📖 How to Use This Repository
-
-Each folder contains:
-- **PDF Certificates** - Official certification documents
-- **Badges/Images** - Visual representations of achievements
-- **Course Materials** - Supporting documentation from courses
-
-Navigate by category or platform based on your interest. Each certificate file is named descriptively for easy identification.
-
----
-
-## 🔗 Platform Links
-
-- [AWS Training](https://www.aws.training/)
-- [Google Cloud Training](https://cloud.google.com/training)
-- [HashiCorp Learn](https://learn.hashicorp.com/)
-- [Linux Foundation](https://www.linuxfoundation.org/)
-- [HackerRank](https://www.hackerrank.com/)
-- [LeetCode](https://www.leetcode.com/)
-- [KodeKloud](https://kodekloud.com/)
-- [Coursera](https://www.coursera.org/)
-- [LinkedIn Learning](https://www.linkedin.com/learning/)
-
----
-
-## 📈 Statistics
-
-- **Total Certifications:** 31+
-- **Cloud Providers:** 2 (AWS, Google Cloud)
-- **Specializations:** 9
-- **Average Certificates per Category:** 3-5
-- **Years of Learning:** Continuous professional development
-
----
-
-## 💡 Technologies & Skills Covered
-
-**Cloud & Infrastructure:**
-- AWS Services (EC2, S3, RDS, Lambda, IAM, VPC)
-- Google Cloud Platform (GCP)
-- Terraform & Infrastructure as Code
-- Kubernetes & Container Orchestration
-- Docker & Containerization
-
-**DevOps & Automation:**
-- CI/CD Pipelines (GitHub Actions, Jenkins)
-- GitOps & Deployment Automation
-- Infrastructure Automation
-- Supply Chain Security
-
-**Programming & Problem-Solving:**
-- Java
-- Algorithm Design
-- Data Structures
-- System Design
-
-**AI & Machine Learning:**
-- Google AI Professional
-- Claude AI
-- AWS ML Services
-- Data Analytics
-
----
-
-## 🎓 Learning Journey
-
-This collection represents a structured approach to professional development:
-1. **Foundation** → AWS & Cloud Basics
-2. **Specialization** → Infrastructure (Terraform), Containers (Kubernetes)
-3. **Advanced** → DevOps, Security, AI/ML
-4. **Validation** → Hands-on certifications and practical projects
-
----
-
-## 📝 Notes
-
-- All certificates are earned through official platforms
-- Dates and credential IDs are embedded in the certificate files
-- Regular updates as new certifications are completed
-- Focus areas: Cloud Architecture, Infrastructure as Code, DevOps, Security
-
----
-
-## 🤝 Contact & Connect
-
-This portfolio demonstrates commitment to continuous learning and professional growth in cloud computing, DevOps, and modern infrastructure practices.
-
----
-
-**Last Updated:** September 2026  
-**Repository:** [arshdeep-certs](https://github.com/arshdeep-certs)
+**Last updated:** October 2026
